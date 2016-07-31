@@ -1,0 +1,58 @@
+html, body {
+  width: 100%;
+  background: #EEE;
+  margin: 0;
+  padding: 0;
+}
+
+div#next-fixture {
+  box-sizing: border-box;
+  padding: 16px;
+  background: #DDD;
+  text-align: center;
+}
+
+div.competition {
+  margin-bottom: 20px;
+}
+
+div.team {
+  font-size: 28px;
+  margin: 4px 0 4px 0;
+}
+
+div.vs {
+  font-size: 20px;
+}
+
+div.match-date {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+div.kickoff {
+  margin-top: 8px;
+  font-size: 24px;
+}
+
+/* The fixture list */
+.fixture-list {
+}
+
+.fixture-item {
+  box-sizing: border-box;
+  padding: 8px;
+  border-bottom: 1px solid #BBB;
+}
+
+.fixture-item-opponent {
+  font-size: 20px;
+  margin-bottom: 2px;
+}
+
+.fixture-item-competition {
+  margin-bottom: 4px;
+}
+
+.fixture-item-date {
+}
