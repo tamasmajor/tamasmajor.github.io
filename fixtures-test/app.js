@@ -36,7 +36,7 @@
         });
     }
 
-    getJSON('http://manutd-fixtures-server.herokuapp.com/fixtures').then(function (fixtures) {
+    getJSON('https://manutd-fixtures-server.herokuapp.com/fixtures').then(function (fixtures) {
       console.log(fixtures);
     }).catch(function (err) {
         console.log("Argh " + err.message);
