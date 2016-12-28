@@ -6,7 +6,6 @@ var cacheUrls = [
   'assets/fonts/Roboto-Light.ttf',
   'assets/fonts/Roboto-Medium.ttf',
   'assets/fonts/Roboto-Regular.ttf',
-  'assets/crests/',
   'assets/crests/arsenal.svg',
   'assets/crests/bournemouth.svg',
   'assets/crests/burnley.svg',
