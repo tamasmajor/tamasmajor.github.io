@@ -1,5 +1,6 @@
-var CACHE_NAME = 'manutd-fixtures-v-2';
+var CACHE_NAME = 'manutd-fixtures-v-3';
 var cacheUrls = [
+  'vendor.min.js',
   'script.min.js',
   'style.css',
   'assets/fonts/Roboto-Light.ttf',
